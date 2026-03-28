@@ -12,5 +12,5 @@ Features
 - CSS
 - JavaScript
 
-## ▶️ How to Run
+ How to Run
 1. Open `index.html` in your browser
